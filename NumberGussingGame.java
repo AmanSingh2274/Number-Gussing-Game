@@ -1,7 +1,7 @@
 import java.util.Random; 
 import java.util.Scanner; 
 
-/**
+/** 
  * NumberGussingGame
  */
 public class NumberGussingGame 

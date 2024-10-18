@@ -1,4 +1,4 @@
-# Number Guessing Game
+# Number Guessing Game 
 
 Welcome to the Number Guessing Game repository! This project is a simple Java-based game where the player tries to guess a randomly generated number within a given range. The game provides feedback on whether the guessed number is too high, too low, or correct. 
 
